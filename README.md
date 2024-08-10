@@ -1,4 +1,4 @@
-# Technical Course Provider Data Scraper
+# Technical Course Provide Data Scraper
 
 This project is designed to scrape data of technical course-providing institutes in various Indian locations. The scraped data includes institute names, phone numbers,No.of courses,owner name and email addresses. The locations targeted for this project are:
 
